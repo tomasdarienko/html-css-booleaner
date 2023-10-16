@@ -1,0 +1,96 @@
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+
+header{
+     background-image: url(../html-css-booleaner/img2/pattern.png);
+     background-color: aqua;
+  height: 150px;
+  background-size: contain;
+}
+h1{
+     margin-top: 50px;
+     font-size: 50px;
+}
+.logo{
+     height: 100px;
+     margin-top: 50px;
+}
+
+h4{
+     color: rgb(151, 151, 151);
+     
+}
+
+.data{
+     color:rgb(151, 151, 151);
+font-size: xx-small;
+margin-bottom: 50px;
+
+}
+a{
+     color: rgb(63, 188, 188);
+     text-decoration: none;
+     font-size: medium;
+}
+
+.descrizionefoto{
+font-size: 10px;
+margin-bottom: 50px;
+}
+
+.evidenziatore{
+     background-color: yellow;
+}
+
+.paragrafo{
+     margin-top: 50px;
+     margin-bottom: 50px;
+}
+
+thead{
+     background-color: rgb(43, 152, 152);
+     color: white;
+}
+
+table{
+     margin-bottom: 50px;
+}
+
+td{
+     padding: 20px;
+     
+}
+
+h3{
+   
+margin-bottom: 100px;
+background-color: rgb(131, 193, 217);
+width: 300px;
+
+}
+
+
+.tcolor{
+     background-color: rgba(66, 217, 217, 0.557);
+}
+.monitor{
+     background-image: url(../html-css-booleaner/img2/monitor.jpg);
+     width: 200px;
+     height: 200px;
+     color: white;
+     padding-top: 10px;
+     padding-left: 10px;
+     margin-bottom: 20px;
+}
+
+.grafica{
+background-image: url(../html-css-booleaner/img2/graph.jpg);
+width: 200px;
+height: 200px;
+color: white;
+padding-top: 10px;
+padding-left: 10px;
+}
